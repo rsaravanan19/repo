@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 680C-89BE
+
+ Directory of C:\Users\desk\Desktop\project
+
+2018-11-14  21:27    <DIR>          .
+2018-11-14  21:27    <DIR>          ..
+2018-11-14  21:27                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  154ÿ683ÿ392ÿ000 bytes free
